@@ -8,10 +8,12 @@ function mean($nb1, $nb2) {
 
 // Exemple avec affichage 
 
-$nombre1 = 5;
-$nombre2 = 7;
+$nombre1 = 12;
+$nombre2 = 20;
 $moyenne = mean($nombre1, $nombre2);
 
 echo "La moyenne de $nombre1 et $nombre2 est : $moyenne";
 
 // change les valeur 
+
+// J'ai changer les valeurs 5 et 7 par 12 et 20
