@@ -13,3 +13,5 @@ $nombre2 = 7;
 $moyenne = mean($nombre1, $nombre2);
 
 echo "La moyenne de $nombre1 et $nombre2 est : $moyenne";
+
+// change les valeur 
