@@ -12,7 +12,7 @@ function mention($note) {
     } else if ($note >= 18) {
       return "Excellent";
     }
-  }
+  } 
   
   $note = 16.5;
   
